@@ -1,0 +1,29 @@
+.inner-page {
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+.page-title{
+    font-size: 55px;
+    line-height: 55px;
+    margin-left: 140px;
+}
+ .site-navigation{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    
+}
+.img1 {
+    background-color: #eeeeee;
+    height: 545px;
+}
+.logo {
+    margin-left: 140px;
+}
+.services {
+    display: inline-block;
+}
+.about2{
+    display: inline-block;
+}
